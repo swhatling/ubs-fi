@@ -1,0 +1,7 @@
+F:\VS\Sandpit\SentenceAnalyser\SentenceToolTestClient\bin\Debug\SentenceToolTestClient.exe
+F:\VS\Sandpit\SentenceAnalyser\SentenceToolTestClient\bin\Debug\SentenceToolTestClient.pdb
+F:\VS\Sandpit\SentenceAnalyser\SentenceToolTestClient\bin\Debug\SentenceTools.dll
+F:\VS\Sandpit\SentenceAnalyser\SentenceToolTestClient\bin\Debug\SentenceTools.pdb
+F:\VS\Sandpit\SentenceAnalyser\SentenceToolTestClient\obj\x86\Debug\SentenceToolTestClient.csprojResolveAssemblyReference.cache
+F:\VS\Sandpit\SentenceAnalyser\SentenceToolTestClient\obj\x86\Debug\SentenceToolTestClient.exe
+F:\VS\Sandpit\SentenceAnalyser\SentenceToolTestClient\obj\x86\Debug\SentenceToolTestClient.pdb

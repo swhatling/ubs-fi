@@ -1,0 +1,9 @@
+F:\VS\Sandpit\SentenceAnalyser\SentenceAnalyser\bin\Debug\SentenceTools.dll
+F:\VS\Sandpit\SentenceAnalyser\SentenceAnalyser\bin\Debug\SentenceTools.pdb
+F:\VS\Sandpit\SentenceAnalyser\SentenceAnalyser\obj\Debug\SentenceTools.dll
+F:\VS\Sandpit\SentenceAnalyser\SentenceAnalyser\obj\Debug\SentenceTools.pdb
+F:\VS\Sandpit\SentenceAnalyser\SentenceAnalyser\bin\Debug\SentenceTools.dll.config
+F:\VS\Sandpit\SentenceAnalyser\SentenceAnalyser\bin\Debug\TechTalk.SpecFlow.dll
+F:\VS\Sandpit\SentenceAnalyser\SentenceAnalyser\obj\Debug\SentenceTools.csprojResolveAssemblyReference.cache
+F:\VS\Sandpit\SentenceAnalyser\SentenceAnalyser\bin\Debug\nunit.framework.dll
+F:\VS\Sandpit\SentenceAnalyser\SentenceAnalyser\bin\Debug\nunit.framework.xml
